@@ -1,7 +1,7 @@
 # DeepUME: Learning the Universal Manifold Embedding for Robust Point Cloud Registration
 <!--Created by Natalie Lang and Joseph M. Francos from Ben-Gurion University.-->
-[[paper]](https://github.com/langnatalie/DeepUME/files/6937947/DeepUME_paper.pdf)
-[[supplementary]](https://github.com/langnatalie/DeepUME/files/6937952/DeepUME_supplementary.pdf)
+[[paper]][DeepUME_paper_for_Yossi__revised_ (1).pdf](https://github.com/langnatalie/DeepUME/files/7360121/DeepUME_paper_for_Yossi__revised_.1.pdf)
+[[supplementary]][DeepUME_supplementary_for_Yossi__revised_.pdf](https://github.com/langnatalie/DeepUME/files/7360122/DeepUME_supplementary_for_Yossi__revised_.pdf)
 [[thesis]](https://github.com/langnatalie/DeepUME/files/6937954/DeepUME_thesis.pdf)
 [[data]](https://drive.google.com/drive/folders/1E6muJwx3WONbMJnFunywdmtTDofBZj_L?usp=sharing)
 
