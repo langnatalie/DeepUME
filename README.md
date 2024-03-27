@@ -1,4 +1,4 @@
-# DeepUME: Learning the Universal Manifold Embedding for Robust Point Cloud Registration [(BMVC 2021)](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0948.html)
+# DeepUME: Learning the Universal Manifold Embedding for Robust Point Cloud Registration
 <!--Created by Natalie Lang and Joseph M. Francos from Ben-Gurion University.-->
 [[paper]](http://arxiv.org/abs/2112.09938)
 [[thesis]](https://github.com/langnatalie/DeepUME/files/6937954/DeepUME_thesis.pdf)
